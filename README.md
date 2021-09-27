@@ -2,6 +2,7 @@
 
 **NubWuTTaGum** is a web application prototype to show the amount of customer that are currently in the store, including number of customers prediction, based on previous data stored on database. The data were collected by sensors, installed on Arduino board (Using NodeMCU ESP32 board) and sent to our backend interface written on Flask web framework. The data were calculated and sent to display via our web frontend application with REST API
 
+Demonstration Video : https://www.youtube.com/watch?v=pQPz8ib4VU4
 
 Team Members
 ---
